@@ -1,4 +1,4 @@
-### Electric Vehicle Visualization Project
+### Home Loan Analysis Visualization Project
 
 #### EV Dashboard
-![EV Dashboard](https://github.com/dhruvil-26/Tableau-Dashboards/blob/Electric-Vehicles-Visualization/EV%20Dashboard.png)
+![Home Loan Analysis Dashboard](https://github.com/dhruvil-26/PowerBI-Projects/blob/Home-Loan-Analysis/Home%20Loan%20Analysis.png)
